@@ -5,7 +5,7 @@
 <br/>
 <br/>
 
-<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="380" height="280">
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTc5NDJlMzBmODdlODU3NzRlNTM4ZWMyODljY2RiODQ0OTQ5ZDA3MSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/V4NSR1NG2p0KeJJyr5/giphy.gif" alt="Coder GIF" width="380" height="280">
 
 <h3>🚀 About Me</h3> 
 <h4>I am Ahmed Hamdy a Senior Embedded Software Engineer who is always welling to do creative and intersting things.</h4>
