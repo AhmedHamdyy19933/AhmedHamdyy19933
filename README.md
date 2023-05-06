@@ -5,7 +5,7 @@
 <br/>
 <br/>
 <h3>🚀 About Me</h3> 
-<h4>I am Ahmed Hamdy a Senior Embedded Software Engineer who is always welling to do creative and intersting things.</h4>
+<h4>I am Ahmed Hamdy a Senior Embedded Software Engineer who is always willing to do creative and interesting things.</h4>
 
 
 	
